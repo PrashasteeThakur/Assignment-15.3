@@ -2,8 +2,7 @@
 
 Q.Explain Hadoop Deployment Layout in Brief.
 
-Ans.Introduction:
-
+Ans.
 Standard deployment layout for Hadoop:
 
 With increased complexity and evolving Hadoop ecosystem, having standard deployment layout ensures better integration between Hadoop sub-projects. By making the installation process easier, we can lower the barrier to entry and increase Hadoop adoption.
